@@ -1,4 +1,5 @@
 # Sales-Inventory-Management-System-using-Excel
+![Excel Files](https://img.shields.io/badge/Excel-Files-green?logo=microsoft-excel)
 
 Developed a robust sales and inventory management system tailored for Adith Fabrics, a textile company in Bangladesh. The system efficiently tracks product details, manages inventory levels, and logs both sales and purchase transactions with real-time updates. Key features include:
 
